@@ -15,4 +15,4 @@ nginx
 #dify
 #minlag/mermaid-cli
 #minlag/mermaid
-comfyui
+comfyanonymous/ComfyUI
